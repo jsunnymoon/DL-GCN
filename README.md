@@ -1,1 +1,1 @@
-GCN assignment in deep learning course
+- GCN assignment in deep learning course
